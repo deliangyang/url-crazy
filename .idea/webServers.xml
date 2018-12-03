@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ef77c451-4118-4ac0-803e-ea0c02f4a070" name="www.ydl" url="http://www.ydl.com">
+        <fileTransfer host="www.ydl.com" port="22" privateKey="C:\Users\Administrator\.ssh\id_ras1" rootFolder="/mnt/typo" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
